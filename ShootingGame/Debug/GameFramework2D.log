@@ -1,0 +1,68 @@
+﻿  stdafx.cpp
+  bullet.cpp
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\bullet.cpp(56): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\bullet.cpp(70): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\bullet.cpp(86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\bullet.cpp(100): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  camera.cpp
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\camera.cpp(72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gameNode.cpp
+  image.cpp
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\image.cpp(69): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\image.cpp(110): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\image.cpp(155): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\image.cpp(202): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+  imageManager.cpp
+  input.cpp
+  mainGame.cpp
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(298): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(306): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(322): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(486): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(502): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(516): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(535): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(536): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(540): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(553): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(554): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(564): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(565): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(570): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(571): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(617): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(618): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(635): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(636): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(640): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(641): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(646): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(647): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(652): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(653): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(667): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(668): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(673): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(674): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(680): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(681): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(687): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(688): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(722): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(723): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(724): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(725): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(748): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(749): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(1001): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\shootinggame_2d\maingame.cpp(1002): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  random.cpp
+  util.cpp
+  winMain.cpp
+  코드를 생성하고 있습니다...
+  GameFramework2D.vcxproj -> C:\Users\HOME\Desktop\게임프로그래밍\SHOOTINGGAME_2D\Debug\GameFramework2D.exe
