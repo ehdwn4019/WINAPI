@@ -1,0 +1,144 @@
+﻿  stdafx.cpp
+  aliveScene.cpp
+  bullet.cpp
+c:\users\home\desktop\게임프로그래밍\himno_2d\bullet.cpp(33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\bullet.cpp(40): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\bullet.cpp(50): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\bullet.cpp(66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\bullet.cpp(72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\bullet.cpp(83): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\bullet.cpp(90): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\bullet.cpp(96): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\bullet.cpp(149): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\bullet.cpp(163): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\bullet.cpp(179): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\bullet.cpp(193): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\bullet.cpp(250): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\bullet.cpp(263): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\bullet.cpp(277): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  camera.cpp
+c:\users\home\desktop\게임프로그래밍\himno_2d\camera.cpp(72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  deadScene.cpp
+  gameNode.cpp
+  image.cpp
+c:\users\home\desktop\게임프로그래밍\himno_2d\image.cpp(70): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\home\desktop\게임프로그래밍\himno_2d\image.cpp(111): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\home\desktop\게임프로그래밍\himno_2d\image.cpp(156): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\home\desktop\게임프로그래밍\himno_2d\image.cpp(203): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\home\desktop\게임프로그래밍\himno_2d\image.cpp(717): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\image.cpp(718): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\image.cpp(755): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\image.cpp(756): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\image.cpp(803): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\image.cpp(811): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\image.cpp(812): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\image.cpp(831): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\image.cpp(830): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\image.cpp(854): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\image.cpp(862): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\image.cpp(863): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\image.cpp(886): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\image.cpp(885): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  imageManager.cpp
+  imageTest.cpp
+  inGameScene.cpp
+  iniData.cpp
+c:\users\home\desktop\게임프로그래밍\himno_2d\inidata.cpp(39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\inidata.cpp(32): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\home\desktop\게임프로그래밍\himno_2d\inidata.cpp(35): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\users\home\desktop\게임프로그래밍\himno_2d\inidata.cpp(52): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\home\desktop\게임프로그래밍\himno_2d\inidata.cpp(54): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\users\home\desktop\게임프로그래밍\himno_2d\inidata.cpp(70): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\home\desktop\게임프로그래밍\himno_2d\inidata.cpp(72): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\users\home\desktop\게임프로그래밍\himno_2d\inidata.cpp(80): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  iniTestScene.cpp
+  input.cpp
+  loading.cpp
+c:\users\home\desktop\게임프로그래밍\himno_2d\loading.cpp(42): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\loading.cpp(43): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\loading.cpp(78): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\loading.cpp(79): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\loading.cpp(173): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\loading.cpp(198): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\loading.cpp(212): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\loading.cpp(227): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\loading.cpp(227): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  loadingScene.cpp
+c:\users\home\desktop\게임프로그래밍\himno_2d\loadingscene.cpp(73): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\loadingscene.cpp(73): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\loadingscene.cpp(77): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\loadingscene.cpp(90): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\loadingscene.cpp(73): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\home\desktop\게임프로그래밍\himno_2d\loadingscene.cpp(81): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\home\desktop\게임프로그래밍\himno_2d\loadingscene.cpp(135): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  mainGame.cpp
+  maptoolScene.cpp
+  pixelCollisionScene.cpp
+c:\users\home\desktop\게임프로그래밍\himno_2d\pixelcollisionscene.cpp(13): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\pixelcollisionscene.cpp(16): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\pixelcollisionscene.cpp(36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\pixelcollisionscene.cpp(37): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\pixelcollisionscene.cpp(42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\pixelcollisionscene.cpp(49): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\pixelcollisionscene.cpp(68): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  player.cpp
+c:\users\home\desktop\게임프로그래밍\himno_2d\player.cpp(215): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\player.cpp(216): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\player.cpp(217): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\player.cpp(218): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\player.cpp(275): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\player.cpp(388): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\player.cpp(411): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\player.cpp(506): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\player.cpp(832): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\player.cpp(839): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\player.cpp(878): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\player.cpp(907): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\player.cpp(930): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\player.cpp(947): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\player.cpp(1039): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\player.cpp(1063): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\player.cpp(1087): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\player.cpp(1089): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\player.cpp(1160): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\player.cpp(1162): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  playerData.cpp
+  progressBar.cpp
+c:\users\home\desktop\게임프로그래밍\himno_2d\progressbar.cpp(13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\progressbar.cpp(14): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\progressbar.cpp(16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\progressbar.cpp(29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\progressbar.cpp(35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\progressbar.cpp(38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\progressbar.cpp(37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+c:\users\home\desktop\게임프로그래밍\himno_2d\inidata.cpp(60): warning C4172: 지역 변수 또는 임시: data의 주소를 반환하고 있습니다.
+  컴파일하고 있습니다...
+  random.cpp
+  sceneManager.cpp
+c:\users\home\desktop\게임프로그래밍\himno_2d\scenemanager.cpp(31): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+c:\users\home\desktop\게임프로그래밍\himno_2d\scenemanager.cpp(32): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+  soundManager.cpp
+  soundTestScene.cpp
+  startScene.cpp
+  timeManager.cpp
+c:\users\home\desktop\게임프로그래밍\himno_2d\timemanager.cpp(105): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\home\desktop\게임프로그래밍\himno_2d\timemanager.cpp(108): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+  util.cpp
+  winMain.cpp
+  코드를 생성하고 있습니다...
+  GameFramework2D.vcxproj -> C:\Users\HOME\Desktop\게임프로그래밍\HIMNO_2D\Debug\GameFramework2D.exe
